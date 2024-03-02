@@ -3,3 +3,4 @@
 data/*
 *.p
 project_tests.py
+__pycache__/*
