@@ -4,3 +4,4 @@ data/*
 *.p
 project_tests.py
 __pycache__/*
+.ipynb_checkpoints/*
