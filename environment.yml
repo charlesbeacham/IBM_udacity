@@ -1,0 +1,11 @@
+name: rec
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
